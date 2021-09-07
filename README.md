@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samManny
-- 👀 I’m interested in living to the fullest
-- 🌱 I’m currently learning how to be patient
+- 👀 I’m interested in living soft
+- 🌱 I’m currently learning ASP .NET CORE
 - 💞️ I’m looking to collaborate on growth and development
 - 📫 How to reach me? Find me if you can! 
 
