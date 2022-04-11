@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samManny
-- 👀 I’m interested in living soft
-- 🌱 I’m currently learning ASP .NET CORE
+- 👀 I’m interested in tinkering with this and that
+- 🌱 I’m currently learning & working with Django Python
 - 💞️ I’m looking to collaborate on growth and development
 - 📫 How to reach me? Find me if you can! 
 
